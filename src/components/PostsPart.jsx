@@ -1,7 +1,6 @@
 import { Button, Card, Dropdown, Image, Stack } from "react-bootstrap";
 import { useMediaQuery } from "react-responsive";
-import Post1 from "../assets/Posts1.svg";
-import Post2 from "../assets/Posts2.svg";
+import { default as Post1, default as Post2 } from "../assets/Posts1.svg";
 import Post3 from "../assets/Posts3.svg";
 import data1 from "../assets/groupData1.svg";
 import data2 from "../assets/groupData2.svg";
